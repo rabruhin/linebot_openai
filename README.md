@@ -1,5 +1,3 @@
-! pip install azure-ai-language-questionanswering
-
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.language.questionanswering import QuestionAnsweringClient
 
